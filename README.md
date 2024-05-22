@@ -15,3 +15,5 @@ This project applies K-Means clustering to analyze fatal police shootings across
 
 ## Conclusion
 The clustering analysis of fatal police shootings in the US unveils significant spatial patterns, with pronounced concentrations in urban areas. These findings underscore the need for further investigation into socio-economic, demographic, and law enforcement factors to understand and address the underlying causes of these incidents.
+
+***For a detailed report, read the PDF***
